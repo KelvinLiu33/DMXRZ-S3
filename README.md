@@ -19,6 +19,7 @@ Get the product from Tindie — that is the supported path. This repository is f
 | [`guides/DMXRZ-S3-web-console-en.pdf`](guides/DMXRZ-S3-web-console-en.pdf) | English web console manual |
 | [`firmware/`](firmware/) | Signed OTA images + [`CHANGELOG.md`](firmware/CHANGELOG.md) |
 | [`images/`](images/) | Product photos (for docs / Tindie Markdown hotlinks) |
+| [`mechanical/`](mechanical/) | Enclosure / 3D-print STL (reference for buyers) |
 
 ## Firmware (OTA)
 
