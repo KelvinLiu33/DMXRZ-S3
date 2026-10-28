@@ -13,7 +13,7 @@ Get the product from Tindie — that is the supported path. This repository is f
 | Path | Description |
 |------|-------------|
 | [`hardware/DMXRZ-S3-V1.5-schematic.pdf`](hardware/DMXRZ-S3-V1.5-schematic.pdf) | Schematic (PDF) |
-| [`hardware/DMXRZ-S3-V1.5-assembly-bom.pdf.pdf`](hardware/DMXRZ-S3-V1.5-assembly-bom.pdf.pdf) | Assembly BOM (PDF; filename ends in `.pdf.pdf`) |
+| [`hardware/DMXRZ-S3-V1.5-assembly-bom.pdf`](hardware/DMXRZ-S3-V1.5-assembly-bom.pdf) | Assembly BOM (PDF) |
 | [`hardware/Altium_ESP32S3_DMX_RDM_BAT/`](hardware/Altium_ESP32S3_DMX_RDM_BAT/) | Altium / PCB project files |
 | [`guides/DMXRZ-S3-main-screens-en.pdf`](guides/DMXRZ-S3-main-screens-en.pdf) | English on-device screen manual |
 | [`guides/DMXRZ-S3-web-console-en.pdf`](guides/DMXRZ-S3-web-console-en.pdf) | English web console manual |
