@@ -12,7 +12,7 @@ Get the product from Tindie — that is the supported path. This repository is f
 
 | Path | Description |
 |------|-------------|
-| [`hardware/DMXRZ-S3-V1.5-schematic.pdf`](hardware/DMXRZ-S3-V1.5-schematic.pdf) | Schematic (PDF, EasyEDA export) |
+| [`hardware/easyeda/ESP32S3_DMX_RDM_BAT-schematic.pdf`](hardware/easyeda/ESP32S3_DMX_RDM_BAT-schematic.pdf) | Schematic (PDF, EasyEDA export) |
 | [`hardware/easyeda/`](hardware/easyeda/) | EasyEDA Pro `.epro`, schematic PDF, component BOM (xlsx), interactive BOM (HTML) |
 | [`guides/DMXRZ-S3-main-screens-en.pdf`](guides/DMXRZ-S3-main-screens-en.pdf) | English on-device screen manual |
 | [`guides/DMXRZ-S3-web-console-en.pdf`](guides/DMXRZ-S3-web-console-en.pdf) | English web console manual |
