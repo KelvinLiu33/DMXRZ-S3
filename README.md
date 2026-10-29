@@ -2,7 +2,7 @@
 
 Portable DMX512 & RDM field controller (ESP32-S3): onboard battery, 2.0″ touch UI, DMX/RDM, SM/UCS DMX IC write, RZ pixel out, and one-universe Wi-Fi Art-Net.
 
-Get the product from Tindie — that is the supported path. This repository is for **buyers**: English guides, signed OTA firmware, and hardware reference files (schematic PDF, EasyEDA Pro project, BOM). It is **not** set up as a DIY build kit.
+Get the product from Tindie — that is the supported path. This repository is for **buyers**: English guides, signed OTA firmware, and hardware reference files (EasyEDA Pro project/BOM, schematic PDF, component datasheets, enclosure STL). It is **not** set up as a DIY build kit.
 
 ## Buy a unit
 
@@ -14,11 +14,11 @@ Get the product from Tindie — that is the supported path. This repository is f
 |------|-------------|
 | [`hardware/easyeda/ESP32S3_DMX_RDM_BAT-schematic.pdf`](hardware/easyeda/ESP32S3_DMX_RDM_BAT-schematic.pdf) | Schematic (PDF, EasyEDA export) |
 | [`hardware/easyeda/`](hardware/easyeda/) | EasyEDA Pro `.epro`, schematic PDF, component BOM (xlsx), interactive BOM (HTML) |
-| [`hardware/datasheets/`](hardware/datasheets/) | LCD panel and selected component datasheets (PDF) |
+| [`hardware/datasheets/`](hardware/datasheets/) | LCD and selected component datasheets (PDF/DWG under [`lcd/`](hardware/datasheets/lcd/)) |
 | [`guides/DMXRZ-S3-main-screens-en.pdf`](guides/DMXRZ-S3-main-screens-en.pdf) | English on-device screen manual |
 | [`guides/DMXRZ-S3-web-console-en.pdf`](guides/DMXRZ-S3-web-console-en.pdf) | English web console manual |
 | [`firmware/`](firmware/) | Signed OTA images + [`CHANGELOG.md`](firmware/CHANGELOG.md) |
-| [`images/`](images/) | Product photos (for docs / Tindie Markdown hotlinks) |
+| [`images/`](images/) | Product photos (placeholder; for docs / Tindie Markdown hotlinks) |
 | [`mechanical/`](mechanical/) | Enclosure / 3D-print STL (reference for buyers) |
 
 ## Firmware (OTA)
@@ -40,4 +40,4 @@ Questions: **[kevinliu199533@gmail.com](mailto:kevinliu199533@gmail.com)**.
 
 ## Hardware files
 
-Schematic PDF and EasyEDA Pro project/BOM exports in [`hardware/easyeda/`](hardware/easyeda/) are published here as **reference** for the Tindie product (hardware rev **1.5**, 2026-09-13). Signed OTA firmware is in [`firmware/`](firmware/).
+Schematic PDF, EasyEDA Pro project/BOM exports in [`hardware/easyeda/`](hardware/easyeda/), component datasheets in [`hardware/datasheets/`](hardware/datasheets/), and enclosure STL in [`mechanical/`](mechanical/) are published here as **reference** for the Tindie product (hardware rev **1.5**, 2026-09-13). Signed OTA firmware is in [`firmware/`](firmware/).
