@@ -17,6 +17,7 @@ Get the product from Tindie — that is the supported path. This repository is f
 | [`hardware/datasheets/`](hardware/datasheets/) | LCD and selected component datasheets (PDF/DWG under [`lcd/`](hardware/datasheets/lcd/)) |
 | [`guides/DMXRZ-S3-main-screens-en.pdf`](guides/DMXRZ-S3-main-screens-en.pdf) | English on-device screen manual |
 | [`guides/DMXRZ-S3-web-console-en.pdf`](guides/DMXRZ-S3-web-console-en.pdf) | English web console manual |
+| [`guides/DMXRZ-S3-web-ota-en.pdf`](guides/DMXRZ-S3-web-ota-en.pdf) | English web OTA update manual |
 | [`firmware/`](firmware/) | Signed OTA images + [`CHANGELOG.md`](firmware/CHANGELOG.md) |
 | [`images/`](images/) | Live Tindie gallery photos (kebab-case names) for docs / Markdown hotlinks |
 | [`mechanical/`](mechanical/) | Enclosure / 3D-print STL (reference for buyers) |
