@@ -4,6 +4,12 @@ This folder holds the **2.0″ LCD** and **selected component datasheets** (PDF)
 
 本目录存放显示屏及相关器件的数据手册（PDF）与结构图（DWG），与 [`../easyeda/`](../easyeda/) 中的原理图与 BOM 对照使用；其余器件手册可继续补充。
 
+## Product datasheet
+
+English datasheet for the assembled DMXRZ-S3 (specs edition v1 / DRAFT A.3 · EN v1):
+
+- [DMXRZ-S3_product_datasheet_EN_v1.pdf](DMXRZ-S3_product_datasheet_EN_v1.pdf) — assembled product, specs edition v1 / DRAFT A.3 · EN v1.
+
 ## lcd/
 
 2.0″ 320×240 display module (Huadi HD20007C10) and related IC datasheets:
