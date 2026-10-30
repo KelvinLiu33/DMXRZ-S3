@@ -15,7 +15,7 @@ Get the product from Tindie — that is the supported path. This repository is f
 | [`hardware/easyeda/ESP32S3_DMX_RDM_BAT-schematic.pdf`](hardware/easyeda/ESP32S3_DMX_RDM_BAT-schematic.pdf) | Schematic (PDF, EasyEDA export) |
 | [`hardware/easyeda/`](hardware/easyeda/) | EasyEDA Pro `.epro`, schematic PDF, component BOM (xlsx), interactive BOM (HTML) |
 | [`hardware/datasheets/`](hardware/datasheets/) | LCD and selected component datasheets (PDF/DWG under [`lcd/`](hardware/datasheets/lcd/)) |
-| [`hardware/datasheets/DMXRZ-S3_product_datasheet_EN_v1.pdf`](hardware/datasheets/DMXRZ-S3_product_datasheet_EN_v1.pdf) | English product datasheet (assembled product, specs edition v1 / DRAFT A.3 · EN v1) |
+| [`guides/DMXRZ-S3_product_datasheet_EN_v1.pdf`](guides/DMXRZ-S3_product_datasheet_EN_v1.pdf) | English product datasheet (assembled product, specs edition v1 / DRAFT A.3 · EN v1) |
 | [`guides/DMXRZ-S3-main-screens-en.pdf`](guides/DMXRZ-S3-main-screens-en.pdf) | English on-device screen manual |
 | [`guides/DMXRZ-S3-web-console-en.pdf`](guides/DMXRZ-S3-web-console-en.pdf) | English web console manual |
 | [`guides/DMXRZ-S3-web-ota-en.pdf`](guides/DMXRZ-S3-web-ota-en.pdf) | English web OTA update manual |
